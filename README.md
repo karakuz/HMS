@@ -1,2 +1,2 @@
-# CS202
-Group Project of CS202-Fall
+#HMS
+Hospital Management System Written in JSP
